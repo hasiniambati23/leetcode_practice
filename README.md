@@ -1,1 +1,1 @@
-# leetocde-practice
+# leetcode-practice
